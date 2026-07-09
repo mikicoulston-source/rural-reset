@@ -8,6 +8,13 @@
   "assets": {
     "directory": "."
   },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "rural_reset",
+      "database_id": "8e4ebe99-306f-4757-93ff-36d05d487a51"
+    }
+  ],
   "compatibility_flags": [
     "nodejs_compat"
   ]
